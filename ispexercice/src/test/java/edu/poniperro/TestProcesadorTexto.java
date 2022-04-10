@@ -1,4 +1,4 @@
-package org.formacion.isp;
+package edu.poniperro;
 
 import static org.junit.Assert.*;
 
@@ -10,7 +10,7 @@ public class TestProcesadorTexto {
 	@Test
 	public void test_simple() {
 		
-		ProcesadorTexto procesador = new ProcesadorTexto();
+		ProcesadorTextoBasico procesador = new ProcesadorTextoBasico();
 		
 		procesador.nueva("No");
 		procesador.nueva("himporta");

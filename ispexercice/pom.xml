@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
 
     <name>ispexercice</name>
-    <url>https://www.github.com/stonarini/ispexercice</url>
+    <url>https://github.com/AndreuSorell/SOLID-ISP-ejercicio.git</url>
 
     <properties>
         <!-- FIXME change it to the project's main class -->
